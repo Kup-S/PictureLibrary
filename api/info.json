@@ -10,6 +10,16 @@
     ],
     "socializingList": [
         {
+            "title": "未公开",
+            "icon": "https://cdn.jsdelivr.net/gh/kup-s/pictureLibrary@master/icon/sina.png",
+            "href": "https://weibo.com/"
+        },
+        {
+            "title": "未公开",
+            "icon": "https://cdn.jsdelivr.net/gh/kup-s/pictureLibrary@master/icon/zhihu.png",
+            "href": "https://www.zhihu.com/"
+        },
+        {
             "title": "GitHub",
             "icon": "https://cdn.jsdelivr.net/gh/kup-s/pictureLibrary@master/icon/github.png",
             "href": "https://github.com/Kup-S"
