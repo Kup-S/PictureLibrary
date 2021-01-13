@@ -1,0 +1,23 @@
+{
+    "title": "kups",
+    "subtitle": [
+        {
+            "test": "好像什么都没变，又好像什么都变了。"
+        },
+        {
+            "test": "月儿照南北 带吾相思情 若把佳人见 愿效犬马劳"
+        }
+    ],
+    "socializingList": [
+        {
+            "title": "GitHub",
+            "src": "https://cdn.jsdelivr.net/gh/kup-s/pictureLibrary@master/icon/github.png",
+            "href": "https://github.com/Kup-S"
+        },
+        {
+            "title": "E-mail",
+            "src": "https://cdn.jsdelivr.net/gh/kup-s/pictureLibrary@master/icon/email.svg",
+            "href": "http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=S3l7enx9ent_cnsLOjplKCQm"
+        }
+    ]
+}
